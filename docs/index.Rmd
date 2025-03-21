@@ -25,12 +25,15 @@ plot(cars)
 
 
 
-# Clases 
-
-{.panel-tabset}
+# Clases {.panel-tabset}
 
 ## Clase 1 
 
+[Clase1](clase1.html)
+
+[glm](glm.html)
+
 ## Clase 2
+
 
 
