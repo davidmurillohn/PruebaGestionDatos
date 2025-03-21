@@ -5,9 +5,32 @@ output:
     df_print: paged
 ---
 
-Esta es una prueba de un repositorio en GitHub
+Esta pagina esta disenada al manejo de los datos
+
+
+[Curso Gestion de datos](https://www.hnbiology.org/gestion-de-datos)
+
+[GitHub](https://www.github.com/)
+
+
+Mostrar grafico
+
+
 
 ```{r}
-2+2
+data("cars")
+plot(cars)
+
 ```
+
+
+
+# Clases 
+
+{.panel-tabset}
+
+## Clase 1 
+
+## Clase 2
+
 
