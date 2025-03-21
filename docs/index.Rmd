@@ -1,0 +1,13 @@
+---
+title: "Prueba"
+output:
+  html_document:
+    df_print: paged
+---
+
+Esta es una prueba de un repositorio en GitHub
+
+```{r}
+2+2
+```
+
